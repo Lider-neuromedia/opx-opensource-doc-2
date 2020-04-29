@@ -1,0 +1,2 @@
+DIAGRAMA DE CASOS DE USO
+La relación entre el componente de CONTEXTUALIZACION y el de NAVEGACION es en función de la VISUALIZACION de datos de CONTEXTO y el intercambio de mensajes de AUDIO LECTURA. Un usuario recibe mensajes de audio de NAVEGACION y visualizaciones de CONTEXTUALIZACION. Esto significa que los datos de CONTEXTO entrelazan las visualizaciones de CONTEXTUALIZACION y los mensajes de AUDIO LECTURA.
